@@ -64,13 +64,3 @@
 </div>
 
 ###
-
-<img align="left" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2U1MTUzcHpqZGV1cHNzdHJuNzVvZ2N2MHZ2c3hxbGQweDdnNzhvcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CF2EtyRX2d9Sa9Hoj7/giphy.webp"  />
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/omarMohamedTharwat/omarMohamedTharwat/output/snake.svg" alt="Snake animation" />
-
-###
